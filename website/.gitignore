@@ -1,6 +1,0 @@
-### Django ###
-*.log
-*.pot
-*.pyc
-.tox/
-__pycache__/
